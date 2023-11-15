@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+#que{
+	margin:10px 50px 20px 0px;
+	display:block;
+	font-weight:bold;
+}
+input{
+	margin-left:0px;
+	padding-left:0px;
+}
+blockquote{
+	max-width:600px;
+	margin:10px;
+	padding:15px;
+	border-left:8px solid green;
+	background: #f8fffe;
+	font-weight:bold;
+}
